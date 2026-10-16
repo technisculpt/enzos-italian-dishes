@@ -1,0 +1,9 @@
+# Original 2016 iWeb export: contains private family photos and contact details.
+# Keep it locally (build.py reads from it) but never publish it.
+Enzos_traditional_Italian_dishes/
+/index.html
+assets.file_*.plist
+
+.DS_Store
+.claude/
+__pycache__/
